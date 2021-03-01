@@ -1,4 +1,4 @@
-<p>Olá, <strong>[todo]</strong> mundo!</p>
+<h1>Olá, <strong>[todo]</strong> mundo!</h1>
 <p>Seja bem-vind@! Me chamo Thamires Amorim. Sou administradora e pós graduada em mercado de capitais. Sim, a maluca apaixonada pelo mercado financeiro! </p>
 <p>Atualmente estou cursando Tecnologia em Gestão de Tecnologia da Informação. Estou em transição de carreira para uma segunda paixão (essa desde a infância) que é a área de T.I. 
 Estou em busca de mentor@s e também um estágio voltado para UX/UI ou front-end. </p>
