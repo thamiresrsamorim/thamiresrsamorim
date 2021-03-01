@@ -4,5 +4,5 @@
 Estou em busca de mentor@s e também um estágio voltado para UX/UI ou front-end. </p>
 <p>No momento estou aprendendo sobre <strong>Java/JavaScript/CSS/C#/C++</strong>. Super agradeço a sua ajuda ou só a sua opinião sobre isso aqui! :)</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thamiresrsamorim&show_icons=true&theme="")
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thamiresrsamorim&layout=compact)
