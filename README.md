@@ -1,10 +1,10 @@
 <h1 align="center"> Hello world! :earth_americas: </h1>
 
-<a href="#"><img src="https://i.pinimg.com/originals/67/00/4f/67004f96ad065514451bf0fc10482efe.gif" title="day++" width="280px" height="200" align="right" style="max-width:100%;">
+<a href="#"><img src="https://i.pinimg.com/originals/67/00/4f/67004f96ad065514451bf0fc10482efe.gif" title="day++" width="280px" height="210" align="right" style="max-width:100%;">
 </a>
 <p><b><h2>Welcome!</h2></b></p> 
-<p>:sunflower: My name is Thamires Amorim, I'm 24 years old and I live in São Paulo - Brazil. </p>
-<p>:woman_student: I'm administrator. Post graduated in Capital Markets. Passionate about technology and currently I'm studying IT Management. </p>
+<p>:sunflower: My name is Thamires Amorim, I'm 24 years old and I live in São Paulo - Brazil. I'm administrator. Post graduated in Capital Markets. Currently I'm studying IT Management.</p>
+<p>:heart: Passionate about technology, movies, series, books, games, cat, financial markets, and others.  </p>
 <p>:sparkles: I'm looking for mentors and also an internship in UX/UI or front-end.</p></p><p>
 
 <a href="mailto:thamiresrsamorim@gmail.com">
@@ -24,4 +24,4 @@
 |   3    |   Others   | Link |
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thamiresrsamorim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
