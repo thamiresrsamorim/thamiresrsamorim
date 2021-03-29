@@ -15,13 +15,16 @@
 </a>
 
 
-
-
 | Number |    Name    | Link |
 | :----: | :--------: | :--: |
 |   1    |  Projects  | Link |
 |   2    | Challenges | Link |
 |   3    |   Others   | Link |
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<summary align="left">GitHub Profile Stats</summary>
+<a target="_blank"href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamiresrsamorim&theme=vision-friendly-dark&show_icons=true)%5D(https://github.com/anuraghazra/github-readme-stats" />
+</a>
+<a target="_blank" href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thamiresrsamorim&theme=vision-friendly-dark&show_icons=true" />
+</a>
